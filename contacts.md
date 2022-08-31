@@ -4,8 +4,10 @@
 
 ### Shannon Connell
 
-Email: [shannonconnellhealth@gmail.com](mailto:shannonconnellhealth@gmail.com)
-Phone: +1 (970) 819-8684
+| Method | Contact Information            |
+|--------|--------------------------------|
+| Email  | shannonconnellhealth@gmail.com |
+| Phone  | +1 (970) 819-8684              |
 
 Links:
 
@@ -24,11 +26,10 @@ Links:
 
 ### Lara's Touch
 
-825 S Broadway
-Suite 50
-BOULDER , CO 80305
-
-Phone: +1 (303) 669-8239
+| Method  | Contact Information                         |
+|---------|---------------------------------------------|
+| Address | 825 S Broadway; Suite 50; Boulder, CO 80305 |
+| Phone   | +1 (303) 669-8239                           |
 
 Links:
 
@@ -39,10 +40,10 @@ Links:
 
 ### Duggan Chiropractic
 
-2439 Broadway
-Boulder, CO, 80304
-
-Phone: +1 (303) 443-1553
+| Method  | Contact Information              |
+|---------|----------------------------------|
+| Address | 2439 Broadway; Boulder, CO 80304 |
+| Phone   | +1 (303) 443-1553                |
 
 Links:
 

@@ -5,7 +5,7 @@
 - [Applications](./apps.md)
 - [Contacts](./contacts.md)
 - [Strengthening Exercises](./strengthening-exercises.md)
-- [Supplement](./supplements.md)
+- [Supplements](./supplements.md)
 - [Yoga Poses](./yoga-poses.md)
 
 ---
