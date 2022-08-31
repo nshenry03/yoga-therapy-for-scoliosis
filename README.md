@@ -1,14 +1,10 @@
 # Yoga Therapy for Scoliosis
 
----
-
 - [Applications](./apps.md)
 - [Contacts](./contacts.md)
-- [Strengthening Exercises](./strengthening-exercises.md)
+- [Strengthening Exercises](./strengthening-exercises/README.md)
 - [Supplements](./supplements.md)
-- [Yoga Poses](./yoga-poses.md)
-
----
+- [Yoga Poses](./yoga-poses/README.md)
 
 > Any practices to lengthen the spin will be amazing, especially work to
 > lengthen the right side of the body. We also want to strengthen; especially
