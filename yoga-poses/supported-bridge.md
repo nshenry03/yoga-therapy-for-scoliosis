@@ -33,6 +33,7 @@ You will need your yoga block or a similar solid bolster handy.
    come down.
 1. To come out, press down into your feet and lift your hips again. Slide the
    block out from under your sacrum and gently lower your back to the floor.
+1. For a counter pose, hold your knees to your chest for 5 to 10 breaths.
 
 ## Common Mistakes
 
