@@ -47,4 +47,5 @@ decompression. Avoid most twists temporarily.
 [psoas]: https://en.wikipedia.org/wiki/Psoas_major_muscle
 [IT bands]: https://en.wikipedia.org/wiki/Iliotibial_tract
 [fascia]: https://en.wikipedia.org/wiki/Fascia
-[transverse abs]: https://www.healthline.com/health/fitness-exercise/transverse-abdominal-exercises#how-to-engage-it
+[transverse abs]:
+    https://www.healthline.com/health/fitness-exercise/transverse-abdominal-exercises#how-to-engage-it
