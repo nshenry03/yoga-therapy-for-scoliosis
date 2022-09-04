@@ -15,11 +15,28 @@
 > Yin Yoga is awesome to break up acids, scar tissue, and [fascia]. Longer holds
 > are ideal. At least 90 seconds to 2 minute holds. Organic movement between
 > holds is all good to flush circulation.
+>
+> Curve appears to be in both lower thoracic vertebrae and upper lumbar
+> vertebrae. A guess would be T7 - L3
+
+## Curve
+
+Muscles are typically tight on both sides of the curve.
+
+**GOAL**: Lengthen concave curve and strengthen convex curve.
+
+### Convex Curve
+
+"Outside of curve": Muscles are longer and need to be **strengthened**.
+
+### Concave Curve
+
+"Inside of curve": Muscles are shorter and need to be **lengthened**.
 
 ## Basics to consider
 
 Carry on left shoulder or left hand groceries, computer bag, luggage, etc. Add
-core strengthening workouts to daily regimine; crunches, leg lifts, especially
+core strengthening workouts to daily regimen; crunches, leg lifts, especially
 the [transverse abs]. Drive either both hands on the wheel or left hand on the
 wheel. Try using the mouse on the left side vs the right side.
 
