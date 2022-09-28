@@ -14,8 +14,8 @@
 
 - From a seated position, bring the soles of your feet together, a comfortable
   distance away from your pelvis.
-- Fold forward from the hips, allowing your spine to round, placing your hands
-  in front of you.
+- Fold forward from the hips, **allowing your spine to round**, placing your
+  hands in front of you.
 - Relax your legs and spine and allow gravity to work with your body weight.
 - Hold for 3 to 5 minutes. Eventually this pose can be held up to 20 minutes.
 - To come out of the pose, use your hands to push the floor away and allow your
