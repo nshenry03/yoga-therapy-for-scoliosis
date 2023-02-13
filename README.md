@@ -2,6 +2,7 @@
 
 - [Applications](./apps.md)
 - [Contacts](./contacts.md)
+- [Flows](./flows.md)
 - [Strengthening Exercises](./strengthening-exercises/README.md)
 - [Supplements](./supplements.md)
 - [Yoga Poses](./yoga-poses/README.md)
