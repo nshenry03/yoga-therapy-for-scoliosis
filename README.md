@@ -3,6 +3,8 @@
 - [Applications](./apps.md)
 - [Contacts](./contacts.md)
 - [Flows](./flows.md)
+- [PT with Erin Chain](./pt-erin.md)
+- [PT with Sarah Greer](./pt-sarah.md)
 - [Strengthening Exercises](./strengthening-exercises/README.md)
 - [Supplements](./supplements.md)
 - [Yoga Poses](./yoga-poses/README.md)
